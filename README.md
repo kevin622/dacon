@@ -1,6 +1,8 @@
-# 데이콘 인공지능 비트 트레이더 경진대회
+# 데이콘 대회 모음
 
-[대회로 가기](https://dacon.io/competitions/official/235709/overview/description/)
+[비트 트레이더 대회로 가기](https://dacon.io/competitions/official/235709/overview/description/)
 
-드가자~
+[청와대 청원 대회로 가기](https://dacon.io/competitions/open/235597/overview/description)
+
+
 
